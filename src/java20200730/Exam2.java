@@ -18,10 +18,7 @@ public class Exam2 {
 				break;				
 			}
 		}
-		
-		
-		
-	
+		sdfsdfsdfkljfd;kljsda;flkjsad;fkljsafkdlj
 	}
 
 }
